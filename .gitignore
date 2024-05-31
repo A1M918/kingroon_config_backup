@@ -1,0 +1,8 @@
+# ignore everything 
+# **/**
+
+# But not following
+
+!**/printer.cfg
+!**print_macros.cfg
+!**/adxlmcu.cfg
