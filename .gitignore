@@ -2,8 +2,12 @@
 *
 
 # But not following
-
+!.gitignore
 !**/printer.cfg
 !**print_macros.cfg
 !**/adxlmcu.cfg
 !README.md
+!**/KAMP/Line_Purge.cfg
+!**/KAMP/Adaptive_Meshing.cfg
+!**/KAMP_Settings.cfg
+!**/adaptive_bed_mesh.cfg
