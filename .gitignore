@@ -1,5 +1,6 @@
 # ignore everything 
 *
+./**
 
 # But not following
 !.gitignore
